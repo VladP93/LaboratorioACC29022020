@@ -1,0 +1,6 @@
+# Archivos de configuracion
+*.dll
+#Archivos de documentos pdf
+*.pdf
+#Fichero de visual studio
+/.vs
